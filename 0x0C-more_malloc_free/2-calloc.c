@@ -3,7 +3,7 @@
 
 /**
  * _calloc - function that allocates memory for an array
- * Owned By MoOka
+ * Owned By Sfiya
  * @nmemb: allocate memory
  * @size: allocate element
  * Return: pointer

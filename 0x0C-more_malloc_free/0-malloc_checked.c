@@ -3,7 +3,7 @@
 
 /**
  * malloc_checked - function that allocates memory using malloc
- * owned By MoOka
+ * owned By Sfiya
  * @b: bytes to allocate
  * Return: a pointer
  */

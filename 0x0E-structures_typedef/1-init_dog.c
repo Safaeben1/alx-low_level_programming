@@ -3,7 +3,7 @@
 
 /**
  * init_dog - function that initialize a variable of type struct dog
- * Owned By MoOka
+ * Owned By Sfiya
  * @d: dog
  * @name: name
  * @age: age
